@@ -11,3 +11,5 @@
 - Use of Tailwind CSS for styling html components
 
 - Use of ReactBootstrap Components
+
+- Practice with cypress test suite
